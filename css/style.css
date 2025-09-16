@@ -24,3 +24,12 @@
     padding: 2px;
     border-radius: 10px;
 }
+.back-to-top{
+    position: fixed;
+    right: 25px;
+    bottom: 25px;
+}
+.back-to-top i{
+    font-size: 30px;
+    color: #242132;
+}
