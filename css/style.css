@@ -1,0 +1,26 @@
+/* all common css start  */
+*{
+    margin: 0;
+    padding: 0;
+}
+/* all common css end */
+
+
+
+#mixItUpPart{
+    padding: 100px 0;
+    background: linear-gradient(135deg, #1f1c2c, #928dab);
+
+}
+.btn{
+    background: rgba(255, 255, 255, 0.1);
+    color: #FFFFFF;
+    font-size: 20px;
+    font-weight: 500;
+    margin-right: 50px;
+}
+.box{
+    border: 1px solid transparent;
+    padding: 2px;
+    border-radius: 10px;
+}
