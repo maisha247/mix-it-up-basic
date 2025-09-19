@@ -1,6 +1,5 @@
-var containerEl = document.querySelector('.myFilter');
 
-var mixer = mixitup(containerEl);
+var mixer = mixitup(".myFilter");
 
 
 //==== Back-to-top button
